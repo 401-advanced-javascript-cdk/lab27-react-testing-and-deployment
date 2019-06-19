@@ -3,9 +3,10 @@ Lab to practice writing React component tests with Enzyme and deploying to Netli
 ### Author: Chris Kozlowski
 
 ### Links and Resources
-* [Submission PR](https://github.com/401-advanced-javascript-cdk/lab-26-component-based-ui/pull/1)
-* [Netlify Deployment]( --- )
-* [AWS Deployment] ( --- )
+* [Submission PR](https://github.com/401-advanced-javascript-cdk/lab27-react-testing-and-deployment/pull/1)
+* [Netlify Deployment](https://optimistic-bardeen-1c3b2d.netlify.com)
+* [AWS Amplify Deployment](https://lab27.dbffg9zo9u9a4.amplifyapp.com/)
+* [AWS S3 Deployment](http://lab27-deployment.s3-website-us-west-2.amazonaws.com)
 
 ### Modules
 #### `index.js`
