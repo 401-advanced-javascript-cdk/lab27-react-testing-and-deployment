@@ -7,6 +7,7 @@ Lab to practice writing React component tests with Enzyme and deploying to Netli
 * [Netlify Deployment](https://optimistic-bardeen-1c3b2d.netlify.com)
 * [AWS Amplify Deployment](https://lab27.dbffg9zo9u9a4.amplifyapp.com/)
 * [AWS S3 Deployment](http://lab27-deployment.s3-website-us-west-2.amazonaws.com)
+* [Travis](https://travis-ci.com/401-advanced-javascript-cdk/lab27-react-testing-and-deployment/jobs/209392712)
 
 ### Modules
 #### `index.js`
